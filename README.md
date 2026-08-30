@@ -1,6 +1,6 @@
 # ManuNotes Releases
 
-Built `.dmg` installers for [ManuNotes](https://github.com/edersonmelo/ManuNotes),
+Built `.dmg` installers for [ManuNotes](https://github.com/ManuNotes/ManuNotes),
 a macOS edge-docked notes widget. Source code lives in the private ManuNotes
 repo; this repo only holds release artifacts.
 
